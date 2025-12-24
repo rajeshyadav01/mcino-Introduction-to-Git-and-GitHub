@@ -1,0 +1,15 @@
+curl -L https://api.github.com/repos/ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub/pulls/XX
+
+{
+  "state": "open",
+  "head": {
+    "repo": {
+      "full_name": "rajeshyadav01/mcino-Introduction-to-Git-and-GitHub"
+    }
+  },
+  "base": {
+    "repo": {
+      "full_name": "ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub"
+    }
+  }
+}
